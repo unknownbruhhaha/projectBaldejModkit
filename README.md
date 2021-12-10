@@ -1,2 +1,2 @@
-# projectBaldejModkit
-mod kit for project baldej
+# Project Baldej Modkit
+Modkit for Project Baldej (WIP)
